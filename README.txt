@@ -1,3 +1,11 @@
+# Ona's Portfolio Website
+
+This is my personal portfolio website, built using the **Photon** template by HTML5 UP. I customized the design and content to showcase my projects, technical skills, and journey as an IT student.
+
+The website is fully responsive and hosted on Netlify for easy access across devices. This repo includes all source code and assets used to build the site.
+
+---
+
 Photon by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
